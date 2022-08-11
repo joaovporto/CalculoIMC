@@ -1,6 +1,6 @@
 # <div align="center"> Calculo de IMC </div>
 
-<img src="CalculoIMC/img/img.png" />
+<img src="./img/img.png>
                             
 
 
