@@ -1,8 +1,6 @@
 # <div align="center"> Calculo de IMC </div>
 
-<img src="./img/img.png>
                             
-
 
 ## 🛠️ Technologies
 
